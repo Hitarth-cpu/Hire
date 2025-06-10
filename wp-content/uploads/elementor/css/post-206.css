@@ -1,0 +1,356 @@
+.elementor-206 .elementor-element.elementor-element-eeee126 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    --margin-top: 100px;
+    --margin-bottom: 100px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-206 .elementor-element.elementor-element-408ff8c {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+}
+
+.elementor-widget-counter .elementor-counter-number-wrapper {
+    color: var( --e-global-color-primary);
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-counter .elementor-counter-title {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-206 .elementor-element.elementor-element-2370251 .elementor-counter-number-wrapper {
+    font-family: "Istok Web", Sans-serif;
+    font-size: 85px;
+    font-weight: 700;
+}
+
+.elementor-widget-divider {
+    --divider-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider .elementor-divider__text {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon {
+    color: var( --e-global-color-secondary);
+    border-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon svg {
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-206 .elementor-element.elementor-element-96fa15e {
+    --divider-border-style: solid;
+    --divider-color: #0000002E;
+    --divider-border-width: 1px;
+}
+
+.elementor-206 .elementor-element.elementor-element-96fa15e .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-206 .elementor-element.elementor-element-96fa15e .elementor-divider {
+    padding-block-start: 0px;
+    padding-block-end: 0px;
+}
+
+.elementor-widget-text-editor {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+    color: var( --e-global-color-text);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var( --e-global-color-primary);
+    border-color: var( --e-global-color-primary);
+}
+
+.elementor-206 .elementor-element.elementor-element-59c0cdd {
+    width: var( --container-widget-width, 480px);
+    max-width: 480px;
+    --container-widget-width: 480px;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+    font-family: "Istok Web", Sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+.elementor-widget-button .elementor-button {
+    background-color: var( --e-global-color-accent);
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-206 .elementor-element.elementor-element-fe5a166 .elementor-button {
+    background-color: var( --e-global-color-755ed9c);
+    font-family: "Istok Web", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 7px 30px 7px 30px;
+}
+
+.elementor-206 .elementor-element.elementor-element-fe5a166 .elementor-button:hover,
+.elementor-206 .elementor-element.elementor-element-fe5a166 .elementor-button:focus {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-206 .elementor-element.elementor-element-fc8156b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+}
+
+.elementor-206 .elementor-element.elementor-element-f6acbde .elementor-counter-number-wrapper {
+    font-family: "Istok Web", Sans-serif;
+    font-size: 85px;
+    font-weight: 700;
+}
+
+.elementor-206 .elementor-element.elementor-element-16ff463 {
+    --divider-border-style: solid;
+    --divider-color: #0000002E;
+    --divider-border-width: 1px;
+}
+
+.elementor-206 .elementor-element.elementor-element-16ff463 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-206 .elementor-element.elementor-element-16ff463 .elementor-divider {
+    padding-block-start: 0px;
+    padding-block-end: 0px;
+}
+
+.elementor-206 .elementor-element.elementor-element-ca1d085 {
+    width: var( --container-widget-width, 480px);
+    max-width: 480px;
+    --container-widget-width: 480px;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+    font-family: "Istok Web", Sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+.elementor-206 .elementor-element.elementor-element-69da616 .elementor-button {
+    background-color: var( --e-global-color-755ed9c);
+    font-family: "Istok Web", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 7px 30px 7px 30px;
+}
+
+.elementor-206 .elementor-element.elementor-element-69da616 .elementor-button:hover,
+.elementor-206 .elementor-element.elementor-element-69da616 .elementor-button:focus {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-206 .elementor-element.elementor-element-40b547c {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+}
+
+.elementor-206 .elementor-element.elementor-element-160a667 .elementor-counter-number-wrapper {
+    font-family: "Istok Web", Sans-serif;
+    font-size: 85px;
+    font-weight: 700;
+}
+
+.elementor-206 .elementor-element.elementor-element-bf7415d {
+    --divider-border-style: solid;
+    --divider-color: #0000002E;
+    --divider-border-width: 1px;
+}
+
+.elementor-206 .elementor-element.elementor-element-bf7415d .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-206 .elementor-element.elementor-element-bf7415d .elementor-divider {
+    padding-block-start: 0px;
+    padding-block-end: 0px;
+}
+
+.elementor-206 .elementor-element.elementor-element-7ae561a {
+    width: var( --container-widget-width, 480px);
+    max-width: 480px;
+    --container-widget-width: 480px;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+    font-family: "Istok Web", Sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+.elementor-206 .elementor-element.elementor-element-0971cb9 .elementor-button {
+    background-color: var( --e-global-color-755ed9c);
+    font-family: "Istok Web", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 7px 30px 7px 30px;
+}
+
+.elementor-206 .elementor-element.elementor-element-0971cb9 .elementor-button:hover,
+.elementor-206 .elementor-element.elementor-element-0971cb9 .elementor-button:focus {
+    background-color: var( --e-global-color-secondary);
+}
+
+@media(min-width:768px) {
+    .elementor-206 .elementor-element.elementor-element-408ff8c {
+        --width: 50%;
+    }
+    .elementor-206 .elementor-element.elementor-element-fc8156b {
+        --width: 50%;
+    }
+    .elementor-206 .elementor-element.elementor-element-40b547c {
+        --width: 50%;
+    }
+}
+
+@media(max-width:1599px) {
+    .elementor-206 .elementor-element.elementor-element-eeee126 {
+        --margin-top: 50px;
+        --margin-bottom: 50px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+    .elementor-206 .elementor-element.elementor-element-2370251 .elementor-counter-number-wrapper {
+        font-size: 60px;
+    }
+    .elementor-206 .elementor-element.elementor-element-59c0cdd {
+        font-size: 24px;
+    }
+    .elementor-206 .elementor-element.elementor-element-f6acbde .elementor-counter-number-wrapper {
+        font-size: 60px;
+    }
+    .elementor-206 .elementor-element.elementor-element-ca1d085 {
+        font-size: 24px;
+    }
+    .elementor-206 .elementor-element.elementor-element-160a667 .elementor-counter-number-wrapper {
+        font-size: 60px;
+    }
+    .elementor-206 .elementor-element.elementor-element-7ae561a {
+        font-size: 24px;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-206 .elementor-element.elementor-element-eeee126 {
+        --margin-top: 50px;
+        --margin-bottom: 50px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+    .elementor-206 .elementor-element.elementor-element-2370251 .elementor-counter-number-wrapper {
+        font-size: 50px;
+    }
+    .elementor-206 .elementor-element.elementor-element-59c0cdd {
+        font-size: 20px;
+    }
+    .elementor-206 .elementor-element.elementor-element-f6acbde .elementor-counter-number-wrapper {
+        font-size: 50px;
+    }
+    .elementor-206 .elementor-element.elementor-element-ca1d085 {
+        font-size: 20px;
+    }
+    .elementor-206 .elementor-element.elementor-element-160a667 .elementor-counter-number-wrapper {
+        font-size: 50px;
+    }
+    .elementor-206 .elementor-element.elementor-element-7ae561a {
+        font-size: 20px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-206 .elementor-element.elementor-element-eeee126 {
+        --gap: 20px 20px;
+        --row-gap: 20px;
+        --column-gap: 20px;
+    }
+    .elementor-206 .elementor-element.elementor-element-2370251 .elementor-counter-number-wrapper {
+        font-size: 40px;
+    }
+    .elementor-206 .elementor-element.elementor-element-f6acbde .elementor-counter-number-wrapper {
+        font-size: 40px;
+    }
+    .elementor-206 .elementor-element.elementor-element-160a667 .elementor-counter-number-wrapper {
+        font-size: 40px;
+    }
+}
+
+/* Start custom CSS for counter, class: .elementor-element-2370251 */
+
+.elementor-206 .elementor-element.elementor-element-2370251 .elementor-counter-number-wrapper:hover {
+    color: #B8155B;
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for counter, class: .elementor-element-f6acbde */
+
+.elementor-206 .elementor-element.elementor-element-f6acbde .elementor-counter-number-wrapper:hover {
+    color: #B8155B;
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for counter, class: .elementor-element-160a667 */
+
+.elementor-206 .elementor-element.elementor-element-160a667 .elementor-counter-number-wrapper:hover {
+    color: #B8155B;
+}
+
+/* End custom CSS */
